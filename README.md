@@ -19,7 +19,7 @@ ___
 ___
 # 🌐Установка
 + #### **Android APK**
-  + `Установить приложение тут` [**`@orion_cloud_bot`**](https://t.me/orion_cloud_bot)
+  + `Установить приложение тут` [**`@cloud_orion_bot`**](https://t.me/cloud_orion_bot) `или` [**`orion-cloud.ru`**](https://orion-cloud.ru)
 ___
 + #### **Termux (Android)**
   + `Установить` [**`Termux`**](https://f-droid.org/repo/com.termux_118.apk)
