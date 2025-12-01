@@ -114,7 +114,7 @@ def banner():
 	░ ▒░▒░▒░ ░ ▒▓ ░▒▓░░▓  ░ ▒░▒░▒░ ░ ▒░   ▒ ▒ 
 	  ░ ▒ ▒░   ░▒ ░ ▒░ ▒ ░  ░ ▒ ▒░ ░ ░░   ░ ▒░
 	░ ░ ░ ▒    ░░   ░  ▒ ░░ ░ ░ ▒     ░   ░ ░ 
-	    ░ ░     ░      ░      ░ ░           ░ """, "red")
+	    ░ ░     ░      ░      ░ ░           ░ """, "blue")
 
 	pred_info = " "*24+colored("Сервисы", "green")+"\n"
 	pred_info_ru = " "*17+colored("Россия ", "blue")+colored(ru_s, "green")+"   "
@@ -124,7 +124,7 @@ def banner():
 	info = " "*13+colored("[", "blue")+"Developers :"+colored("rizza", "green")+" and "+colored("LostIk", "red")
 	info_2 = " "*13+colored("[", "blue")+"Version    :"+colored(ver, "red")
 	info_3 = " "*13+colored("[", "blue")+"Telegram   :"+colored("@orionbomber", "cyan")+colored("   <--", "green")
-	info_4 = "\n"+" "*12+colored("Программа больше не поддерживается!", "red")+"\n"
+	info_4 = "\n"+" "*12+colored("это я тут бомба", "red")+"\n"
 
 	print(banner)
 	print(pred_info)
