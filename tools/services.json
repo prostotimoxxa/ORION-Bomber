@@ -17,6 +17,86 @@
         "headers": {},
         "cookies": ""
       }
+            "telegram": {
+        "url": "https://my.telegram.org/auth/send_password",
+        "data": {"phone": "*+phone*"},
+        "response": 200,
+        "timeout": 120,
+        "headers": {},
+        "cookies": ""
+      },
+      "pochtabank": {
+        "url": "https://my.pochtabank.ru/dbo/registrationService/ib/phoneNumber",
+        "json": {"confirmation": "send", "phone": "*phone()*"},
+        "response": 200,
+        "timeout": 120,
+        "headers": {},
+        "cookies": ""
+      }
+            "telegram": {
+        "url": "https://my.telegram.org/auth/send_password",
+        "data": {"phone": "*+phone*"},
+        "response": 200,
+        "timeout": 120,
+        "headers": {},
+        "cookies": ""
+      },
+      "pochtabank": {
+        "url": "https://my.pochtabank.ru/dbo/registrationService/ib/phoneNumber",
+        "json": {"confirmation": "send", "phone": "*phone()*"},
+        "response": 200,
+        "timeout": 120,
+        "headers": {},
+        "cookies": ""
+      }
+            "telegram": {
+        "url": "https://my.telegram.org/auth/send_password",
+        "data": {"phone": "*+phone*"},
+        "response": 200,
+        "timeout": 120,
+        "headers": {},
+        "cookies": ""
+      },
+      "pochtabank": {
+        "url": "https://my.pochtabank.ru/dbo/registrationService/ib/phoneNumber",
+        "json": {"confirmation": "send", "phone": "*phone()*"},
+        "response": 200,
+        "timeout": 120,
+        "headers": {},
+        "cookies": ""
+      }
+            "telegram": {
+        "url": "https://my.telegram.org/auth/send_password",
+        "data": {"phone": "*+phone*"},
+        "response": 200,
+        "timeout": 120,
+        "headers": {},
+        "cookies": ""
+      },
+      "pochtabank": {
+        "url": "https://my.pochtabank.ru/dbo/registrationService/ib/phoneNumber",
+        "json": {"confirmation": "send", "phone": "*phone()*"},
+        "response": 200,
+        "timeout": 120,
+        "headers": {},
+        "cookies": ""
+      }
+            "telegram": {
+        "url": "https://my.telegram.org/auth/send_password",
+        "data": {"phone": "*+phone*"},
+        "response": 200,
+        "timeout": 120,
+        "headers": {},
+        "cookies": ""
+      },
+      "pochtabank": {
+        "url": "https://my.pochtabank.ru/dbo/registrationService/ib/phoneNumber",
+        "json": {"confirmation": "send", "phone": "*phone()*"},
+        "response": 200,
+        "timeout": 120,
+        "headers": {},
+        "cookies": ""
+      }
     }
   ],
   "by": [
