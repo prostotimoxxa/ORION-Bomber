@@ -1,17 +1,20 @@
 {
-  "ru":
-  [
+  "ru": [
+    {
       "telegram": {
         "url": "https://my.telegram.org/auth/send_password",
-        "data": "{'phone': '*+phone*'}",
+        "data": {"phone": "*+phone*"},
         "response": 200,
         "timeout": 120
-      },
+      }
+    },
+    {
       "pochtabank": {
         "url": "https://my.pochtabank.ru/dbo/registrationService/ib/phoneNumber",
-        "json": "{'confirmation': 'send', 'phone': '*phone()*'}",
+        "json": {"confirmation": "send", "phone": "*phone()*"},
         "response": 200,
         "timeout": 120
-      },
+      }
+    }
   ]
 }
